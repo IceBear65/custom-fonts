@@ -1,8 +1,6 @@
 @font-face {
     font-family: 'AdorshoLipi';
-    src: url('https://raw.githubusercontent.com/IceBear65/custom-fonts/main/AdorshoLipi.woff2') format('woff2'),
-         url('https://raw.githubusercontent.com/IceBear65/custom-fonts/main/AdorshoLipi.woff') format('woff'),
-         url('https://raw.githubusercontent.com/IceBear65/custom-fonts/main/AdorshoLipi.ttf') format('truetype');
+    src: url('https://IceBear65.github.io/custom-fonts/AdorshoLipi.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
