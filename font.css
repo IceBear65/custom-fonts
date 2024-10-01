@@ -10,3 +10,9 @@
     font-weight: normal;
     font-style: normal;
 }
+@font-face {
+    font-family: 'Lohit';
+    src: url('https://IceBear65.github.io/custom-fonts/Lohit.ttf') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
